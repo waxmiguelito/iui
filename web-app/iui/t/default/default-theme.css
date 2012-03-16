@@ -65,7 +65,7 @@ body[orient="landscape"] .toolbar > h1 {
     background: 	none;
 	-webkit-border-image:	url(toolButton.png) 0 5 0 5;
 	-moz-border-image:		url(toolButton.png) 0 5 0 5;
-	border-image:			url(toolButton.png) 0 5 0 5;
+	border-image:			url(toolButton.png) 0 5 0 5 fill;
 }
 body[orient="landscape"] .button {
 	top: 			3px;
